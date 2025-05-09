@@ -8,10 +8,10 @@ layout: base
       <div>
         <h2>{{ category | first }}</h2>
         {%- assign count = 0 -%}
-        {%- assign category_posts = category[1] | sort: "date" | reverse | limit: 3 -%}
+        {%- assign category_posts = category[1] | sort: "date" | reverse | limit: 10 -%}
           {%- for post in category_posts -%}
             {%- assign count = count | plus: 1 -%}
-            {%- if count <= 3 -%}
+            {%- if count <= 10 -%}
               <div class="post-list-post">
                 {%- if post.featured-image.path -%}
                   <img class="list-image" src="{{ post.featured-image.path }}" alt="{{ post.featured-image.alt-text }}"/>
