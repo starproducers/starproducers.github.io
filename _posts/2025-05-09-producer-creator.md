@@ -8,7 +8,7 @@ featured-image:
   cutline: Photograph
   credit: Apprendre Le Cinéma
 layout: post
-category: ...
+category: Production
 ---
 
  In series, the producer-creator relation can be a little different than in the cinema sector, or documentary…
