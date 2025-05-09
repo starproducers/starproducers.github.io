@@ -13,15 +13,21 @@
     resizeCanvas();
   
     function createStars() {
-      stars = [];
-      for (let i = 0; i < numStars; i++) {
+    stars = [];
+    for (let i = 0; i < numStars; i++) {
+        // Generate a color between black and pastel blue
+        const r = Math.floor(Math.random() * 50);     // Near black
+        const g = Math.floor(Math.random() * 100 + 100); // 100–200
+        const b = Math.floor(Math.random() * 130 + 100); // 100–230
+
         stars.push({
-          x: Math.random() * canvas.width - canvas.width / 2,
-          y: Math.random() * canvas.height - canvas.height / 2,
-          z: Math.random() * canvas.width,
-          o: Math.random(),
+        x: Math.random() * canvas.width - canvas.width / 2,
+        y: Math.random() * canvas.height - canvas.height / 2,
+        z: Math.random() * canvas.width,
+        o: Math.random() * 0.8 + 0.2, // opacity: 0.2–1.0
+        color: `rgba(${r}, ${g}, ${b},` // We'll close this in drawStars
         });
-      }
+    }
     }
   
     function drawStars() {
@@ -35,7 +41,7 @@
           const size = (1 - star.z / canvas.width) * 4; // or even * 6 for large stars
           ctx.beginPath();
           ctx.arc(px, py, size, 0, Math.PI * 2);
-          ctx.fillStyle = `rgba(0, 0, 0, ${star.o})`;
+          ctx.fillStyle = `${star.color}${star.o})`; // completes the rgba string
           ctx.fill();
         }
   
