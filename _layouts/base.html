@@ -2,10 +2,12 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   {% include head.html %}
   <body>
+    <canvas id="starfield"></canvas>
     {% include header.html %}
     <main class="page-content" aria-label="Content">
         {{ content }}
     </main>
     {% include footer.html %}
+    {% include starfield-script.html %}
   </body>
 </html>
