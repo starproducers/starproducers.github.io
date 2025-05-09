@@ -24,7 +24,6 @@ collections:
 
 # Build settings
 markdown: kramdown
-remote_theme: morpheus636/jekyll-news
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
