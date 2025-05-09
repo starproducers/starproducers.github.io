@@ -1,0 +1,31 @@
+# Basic Site Info
+title: Star Producers
+description: "The only website on which you can learn how to be the best producer as possible"
+author: Héloïse et Salomé
+
+# Site Flag
+flag:
+  show: true
+  path: /assets/flag.jpg
+
+# Comments
+disqus:
+  enabled: true
+  shortname: jekyll-news-demo
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title/
+  staff:
+    output: true
+    permalink: /about/staff/:title
+
+# Build settings
+markdown: kramdown
+remote_theme: morpheus636/jekyll-news
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
