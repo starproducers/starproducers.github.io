@@ -2,7 +2,7 @@
     const canvas = document.getElementById("starfield");
     const ctx = canvas.getContext("2d");
     let stars = [];
-    const numStars = 100;
+    const numStars = 500;
   
     function resizeCanvas() {
       canvas.width = window.innerWidth;
@@ -67,7 +67,7 @@
           drawStar(ctx, px, py, size, 5, 0.5, `${star.color}${star.o})`);
         }
   
-        star.z -= 2;
+        star.z -= 0.5;
         if (star.z <= 0) {
           star.z = canvas.width;
         }
