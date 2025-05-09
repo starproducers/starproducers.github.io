@@ -6,7 +6,7 @@ author-title: Writer
 featured-image: 
   path: https://apprendre-le-cinema.fr/wp-content/uploads/2015/04/le-producteur-du-film-ou-le-producteur-délégué.001-1080x675.jpeg
   cutline: Photograph
-  credit: John Hudson
+  credit: Apprendre Le Cinéma
 layout: post
 category: ...
 ---
