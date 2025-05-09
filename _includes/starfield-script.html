@@ -32,10 +32,10 @@
         const py = star.y * k + canvas.height / 2;
   
         if (px >= 0 && px <= canvas.width && py >= 0 && py <= canvas.height) {
-          const size = (1 - star.z / canvas.width) * 2;
+          const size = (1 - star.z / canvas.width) * 4; // or even * 6 for large stars
           ctx.beginPath();
           ctx.arc(px, py, size, 0, Math.PI * 2);
-          ctx.fillStyle = `rgba(255, 255, 255, ${star.o})`;
+          ctx.fillStyle = `rgba(0, 0, 0, ${star.o})`;
           ctx.fill();
         }
   
