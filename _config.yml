@@ -11,7 +11,7 @@ flag:
 # Comments
 disqus:
   enabled: true
-  shortname: jekyll-news-demo
+  shortname: Star Producers
 
 # Collections
 collections:
