@@ -1,6 +1,6 @@
 ---
 title: The Producer-Creator Relation
-subhed: ...
+subhed: 
 author: John Hudson
 author-title: Writer
 featured-image: 

@@ -1,6 +1,6 @@
 ---
 title: The Growing Popularity of True Crime Docu Series
-subhed: ...
+subhed: 
 author: John Hudson
 author-title: Writer
 featured-image: 
@@ -8,7 +8,7 @@ featured-image:
   cutline: Photograph
   credit: MeltyCone
 layout: post
-category: ...
+category: Trends
 ---
 
 As we can see in the previous article about trends in the series market recently, we want to focus on the exponential success of documentary series, particularly due to the rise of true crime and sports documentaries. These genres have become extremely popular on streaming platforms, with companies like Netflix and Amazon making significant investments in documentary series. Their strategy has allowed them to reach a broad and engaged audience, especially in Western Europe and North America. Recent data from Pair Analysis and Digital Eye show that these two types of documentaries have become some of the most-watched content, not only in Europe but also worldwide.
