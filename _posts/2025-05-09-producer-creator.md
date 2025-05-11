@@ -4,9 +4,9 @@ subhed:
 author: John Hudson
 author-title: Writer
 featured-image: 
-  path: https://apprendre-le-cinema.fr/wp-content/uploads/2015/04/le-producteur-du-film-ou-le-producteur-délégué.001-1080x675.jpeg
+  path: https://www.rollingstone.com/wp-content/uploads/2018/06/rs-150135-rectangle.jpg?w=624&h=422&crop=1
   cutline: Photograph
-  credit: Apprendre Le Cinéma
+  credit: RollingStone
 layout: post
 category: Production
 ---
