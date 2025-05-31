@@ -8,7 +8,7 @@ featured-image:
   cutline: Photograph
   credit: Ed Wood (Tim Burton)
 layout: post
-category: Production
+category: Interview
 ---
 
 At series-mania, after the exchange about the trends in docu-series, we got the chance to talk with Dolores Emile, head of non-fiction at Netflix France. It’s a chance to have the vision of an experienced producer and even more so the point of view of a Netflix producer, Worldwide head of series-production. 

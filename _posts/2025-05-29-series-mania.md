@@ -8,7 +8,7 @@ featured-image:
   cutline: Photograph
   credit: Series Mania Festival
 layout: post
-category: Trends
+category: Diffusion
 ---
 
 If you want to learn more about series production and about the future series trends or to make contact with producers, series-makers and series professionals, if you want to see the most desirable series of the year in avant-premiere before everybody, there is one event for you: the festival Series Mania! 

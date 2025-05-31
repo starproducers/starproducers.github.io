@@ -8,7 +8,7 @@ featured-image:
   cutline: Photograph
   credit: Sketchup Compagnie Théâtre
 layout: post
-category: Production
+category: Interview
 ---
 
 For this article, we had the chance to interview a future series producer, Lena Sant’Anna. She explained that the reason she wants to produce series is because it was the first form of art she fell in love with when she was young. She enjoyed Desperate Housewives, Hannah Montana, and other American TV shows. All those shows she grew up with represent a deep emotional connection. Also because watching series was also a family activity. Now, producing series feels like a tribute to those memories, an accomplishment.
