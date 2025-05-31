@@ -1,5 +1,5 @@
 ---
-title: The Producer-Creator Relation
+title: The Producer-Creator Relationship
 subhed: 
 author: John Hudson
 author-title: Writer
@@ -8,7 +8,7 @@ featured-image:
   cutline: Photograph
   credit: RollingStone
 layout: post
-category: Production
+category: Production and diffusion
 ---
 
 In series, the producer-creator relation can be a little different than in the cinema sector, or in documentaries.
